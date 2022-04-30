@@ -6,6 +6,6 @@
 - 🔭 I’m currently working on **Nothing currently**
 - 🌱 I’m currently learning **Lua, JavaScript, Python And C#**
 - 📫 How to reach me: **Through my discord!**
-- <img src="https://discord.c99.nl/widget/theme-2/749306356103774280.png"/></a>
+- <img src="https://discord.c99.nl/widget/theme-2/964893314308530176.png"/></a>
 - ⚡ Fun fact: **Potato Chips Cause More Weight Gain Than Any Other Food!**
 
